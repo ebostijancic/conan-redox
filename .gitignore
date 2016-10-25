@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+*.cmake
+conaninfo.txt
+test_package/build
+*.pyc
